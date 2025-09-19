@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/patm6/Unreal Projects/GDW-V-tutorial/GDW_V_Tutorial/Content/Blueprints/Character/BP_FPCharacter.uasset",
+				"C:/Users/patm6/Unreal Projects/GDW-V-tutorial/GDW_V_Tutorial/Content/Blueprints/Character/IMP_Default.uasset",
+				"C:/Users/patm6/Unreal Projects/GDW-V-tutorial/GDW_V_Tutorial/Content/Blueprints/Character/IMC_Default.uasset",
+				"C:/Users/patm6/Unreal Projects/GDW-V-tutorial/GDW_V_Tutorial/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/W4/6QDEYX29Z15LD66BXPY4Y8.uasset",
+				"C:/Users/patm6/Unreal Projects/GDW-V-tutorial/GDW_V_Tutorial/Content/Framework/BP_Gamemode.uasset",
+				"C:/Users/patm6/Unreal Projects/GDW-V-tutorial/GDW_V_Tutorial/Content/Blueprints/Character/Input_Actions/IA_Move.uasset",
+				"C:/Users/patm6/Unreal Projects/GDW-V-tutorial/GDW_V_Tutorial/Content/Blueprints/Character/Input_Actions/IA_Look.uasset",
+				"C:/Users/patm6/Unreal Projects/GDW-V-tutorial/GDW_V_Tutorial/Content/Blueprints/Character/Input_Actions/IA_Jump.uasset"
+			]
+		}
+	]
+}
